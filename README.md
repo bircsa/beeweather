@@ -5,8 +5,6 @@ Alkalmazások fejlesztése tárgy feladat
 Futtatáshoz adja ki a `briefcase dev` parancsot.
 
 ## Android build és futtatás
-`
-briefcase create android
-briefcase build android
-briefcase run android
-`
+- `briefcase create android`
+- `briefcase build android`
+- `briefcase run android`
