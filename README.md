@@ -2,7 +2,9 @@
 Alkalmazások fejlesztése tárgy feladat
 
 ## Alkalmazás futtatása fejlesztési környezetben
-Futtatáshoz adja ki a `briefcase dev` parancsot.
+- `py -m venv beeware-venv`
+- `python -m pip install briefcase toge httpx`
+- `briefcase dev`
 
 ## Android build és futtatás
 - `briefcase create android`
