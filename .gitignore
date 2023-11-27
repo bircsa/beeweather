@@ -1,6 +1,6 @@
 # beeware
-.beeware-venv
-.logs
+beeware-venv/
+logs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
